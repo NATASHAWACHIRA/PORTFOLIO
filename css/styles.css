@@ -1,0 +1,30 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+img {
+  width: 4000px,auto;
+  height: 500px
+}
+body {
+  background-color: tan;
+  text-decoration-color: white;
+}
+h4 {
+  color: black;
+  text-align: center;
+}
+h3 {
+  font-style: italic;
+  color: black;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+li {
+  text-align: center;
+}
